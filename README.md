@@ -1,6 +1,10 @@
+<p align="center">
+    <img src="https://media1.tenor.com/images/efd8467c907bb0b7d84e4cd27f4cddaa/tenor.gif?itemid=14115823"> 
+</p>
+
 ## Hi there, I'm Asma 👋
-<img src = "https://media1.tenor.com/images/efd8467c907bb0b7d84e4cd27f4cddaa/tenor.gif?itemid=14115823">
-### ✨About Me✨
+
+### About Me✨
 
 - 🧠 I am a Cognitive Science graduate
 - 💻 Currently training to be a Data Engineer
