@@ -7,13 +7,14 @@
 ### About Me✨
 
 - 🧠 I am a Cognitive Science graduate
-- 💻 Aspiring Data Engineer. Currently working on improving my Python skills, exploring ETL in depth, data analytics and learning more about data science stuffs such as data mining, predictive analytics, and machine learning
+- 💻 Aspiring Data Engineer. 
+    >Currently working on improving my Python skills, exploring ETL in depth, data analytics and learning more about data science stuffs such as data mining, predictive analytics, and machine learning
 - 👓 A UI/UX Design Enthusiast. My favorite prototyping tool is FIGMA!
 - ⚡ I also enjoy video editing, making digital art and making crafts!
 
 ### How to reach me
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/asmasyafiqahj/)
-- 🔭Follow me on [Kaggle](https://www.kaggle.com/asmasyafiqah)
+- 🔭 Follow me on [Kaggle](https://www.kaggle.com/asmasyafiqah)
 
 <!--
 **asmasyfqh/asmasyfqh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
