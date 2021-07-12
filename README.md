@@ -7,7 +7,7 @@
 ### About Me✨
 
 - 🧠 I am a Cognitive Science graduate
-- 💻 Currently training to be a Data Engineer
+- 💻 Aspiring Data Engineer. Currently working on improving my Python skills, exploring ETL in depth, data analytics and learning more about data science stuffs such as data mining, predictive analytics, and machine learning
 - 👓 A UI/UX Design Enthusiast. My favorite prototyping tool is FIGMA!
 - ⚡ I also enjoy video editing, making digital art and making crafts!
 
