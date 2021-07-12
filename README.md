@@ -13,6 +13,7 @@
 
 ### How to reach me
 - 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/asmasyafiqahj/)
+- 🔭Follow me on [Kaggle](https://www.kaggle.com/asmasyafiqah)
 
 <!--
 **asmasyfqh/asmasyfqh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
